@@ -51,13 +51,11 @@ La mise en place d'un serveur DNS local a permis d'accéder à l'application via
 
 ---
 
-## Bilan Technique
-Ce projet a permis de valider la mise en œuvre méticuleuse de services essentiels interconnectés. Il démontre une capacité à monter une infrastructure complète de A à Z : de la couche réseau (DHCP/DNS) à la couche applicative (Apache/PHP/MySQL).
 
+## Conclusion
+Ce projet démontre une maîtrise complète de l'architecture 2-Tiers, de la couche réseau à la couche applicative. L'interopérabilité entre Apache, MySQL et les services BIND9/DHCP a été testée avec succès, comme détaillé dans le **[Rapport complet du Projet Linux (Projet_Linux_Dylan_Simon_Oumou.pdf.pdf)](Projet_Linux_Dylan_Simon_Oumou.pdf.pdf)**. Cette mise en œuvre valide ma capacité à gérer des infrastructures Linux complexes en environnement virtualisé.
 **Membres du projet :** Dylan Bassinga, Simon-Emmanuel Mbandzeng, Oumou Kaltom Sy.
 
 ---
 
-## Document technique
 
-[Cliquer ici pour télécharger le rapport complet du Projet Linux (PDF)](Projet_Linux_Dylan_Simon_Oumou.pdf.pdf)
