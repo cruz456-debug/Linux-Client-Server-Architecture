@@ -60,4 +60,4 @@ Ce projet a permis de valider la mise en œuvre méticuleuse de services essenti
 
 ## Document technique
 
-[Cliquer ici pour télécharger le rapport complet du Projet Linux (Projet_Linux_Dylan_Simon_Oumou.pdf)](Projet_Linux_Dylan_Simon_Oumou.pdf)
+[Cliquer ici pour télécharger le rapport complet du Projet Linux (PDF)](Projet_Linux_Dylan_Simon_Oumou.pdf.pdf)
