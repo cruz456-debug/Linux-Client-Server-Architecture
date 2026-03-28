@@ -53,7 +53,9 @@ La mise en place d'un serveur DNS local a permis d'accéder à l'application via
 
 
 ## Conclusion
-Ce projet démontre une maîtrise complète de l'architecture 2-Tiers, de la couche réseau à la couche applicative. L'interopérabilité entre Apache, MySQL et les services BIND9/DHCP a été testée avec succès. Vous pouvez **[consulter ici le rapport complet du Projet Linux](Projet_Linux_Dylan_Simon_Oumou.pdf.pdf)** pour voir les détails de l'implémentation. Cette mise en œuvre valide ma capacité à gérer des infrastructures Linux complexes en environnement virtualisé.
+Ce projet démontre une maîtrise complète de l'architecture 2-Tiers, de la couche réseau à la couche applicative. L'interopérabilité entre Apache, MySQL et les services BIND9/DHCP a été testée avec succès. Vous pouvez **[consulter ici le rapport complet du Projet Linux](https://github.com/cruz456-debug/Linux-Client-Server-Architecture/blob/main/%28Projet_Linux_Dylan_Simon_Oumou.pdf.pdf)** pour voir les détails de l'implémentation. Cette mise en œuvre valide ma capacité à gérer des infrastructures Linux complexes en environnement virtualisé.
+
+**Membres du projet :** Dylan Bassinga, Simon-Emmanuel Mbandzeng, Oumou Kaltom Sy.
 
 **Membres du projet :** Dylan Bassinga, Simon-Emmanuel Mbandzeng, Oumou Kaltom Sy.
 
