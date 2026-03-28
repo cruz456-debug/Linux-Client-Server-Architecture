@@ -57,5 +57,5 @@ Ce projet démontre une maîtrise complète de l'architecture 2-Tiers, de la cou
 
 **Membres du projet :** Dylan Bassinga, Simon-Emmanuel Mbandzeng, Oumou Kaltom Sy.
 
-**Membres du projet :** Dylan Bassinga, Simon-Emmanuel Mbandzeng, Oumou Kaltom Sy.
+
 
